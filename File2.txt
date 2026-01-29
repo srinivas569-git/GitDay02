@@ -1,1 +1,3 @@
 tHis is my file2
+
+this second line in 2nd file
